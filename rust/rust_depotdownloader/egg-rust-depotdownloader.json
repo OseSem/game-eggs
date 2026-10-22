@@ -6,7 +6,7 @@
     },
     "exported_at": "2026-10-22T20:21:12+00:00",
     "name": "Rust - DepotDownloader",
-    "author": "support@pterodactyl.io",
+    "author": "58273860+neverabsolute@users.noreply.github.com",
     "description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive. Installs and updates the server with DepotDownloader instead of SteamCMD.",
     "features": [
         "steam_disk_space"
